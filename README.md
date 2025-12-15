@@ -120,15 +120,23 @@ The codebase is structured for clarity, maintainability, and future expansion.
 
 
 ## Project Structure
-createablity/
-├── Assets # Visual assets
-├── MoodPage.swift # Emotional reflection
-├── CommitmentsPage.swift # Intentional organization
-├── CalendarPage.swift # Time awareness
-├── SelfCarePage.swift # Wellness support
-├── SettingsPage.swift # Customization
-├── NavigationView.swift # App navigation
-└── FinalAppView.swift # Root view
+createablity:
+  Assets:
+    description: Visual assets
+  MoodPage.swift:
+    description: Emotional reflection
+  CommitmentsPage.swift:
+    description: Intentional organization
+  CalendarPage.swift:
+    description: Time awareness
+  SelfCarePage.swift:
+    description: Wellness support
+  SettingsPage.swift:
+    description: Customization
+  NavigationView.swift:
+    description: App navigation
+  FinalAppView.swift:
+    description: Root view
 
 ## Future Improvements
 
